@@ -245,12 +245,12 @@ section h3 {
 }
 
 .btn.small {
-  background: var(--accent);   /* tu morado */
+  background: var(--accent); 
   color: #fff;
 }
 
 .btn.small:hover {
-  background: #7b4dff;        /* morado un poco más claro */
+  background: #7b4dff;        
 }
 .btn.secondary {
   background: transparent;
@@ -262,6 +262,8 @@ section h3 {
   background: var(--accent);
   color: #fff;
 }
+
+
 
 
 /* =========================
